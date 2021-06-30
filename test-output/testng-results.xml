@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-30T00:46:45Z" name="Default suite" finished-at="2021-06-30T00:46:51Z" duration-ms="5971">
+    <groups>
+    </groups>
+    <test started-at="2021-06-30T00:46:45Z" name="Default test" finished-at="2021-06-30T00:46:51Z" duration-ms="5971">
+      <class name="test.MonthDropDownTest">
+        <test-method signature="monthDropDownShouldHaveTwelveMonth()[pri:0, instance:test.MonthDropDownTest@14008db3]" started-at="2021-06-30T00:46:45Z" name="monthDropDownShouldHaveTwelveMonth" finished-at="2021-06-30T00:46:50Z" duration-ms="5281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monthDropDownShouldHaveTwelveMonth -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.MonthDropDownTest@14008db3]" started-at="2021-06-30T00:46:50Z" name="tearDown" finished-at="2021-06-30T00:46:51Z" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.MonthDropDownTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
